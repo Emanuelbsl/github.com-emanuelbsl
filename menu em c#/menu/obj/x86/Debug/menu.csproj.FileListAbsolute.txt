@@ -1,0 +1,10 @@
+C:\Users\Aluno\Downloads\menu\menu\menu\bin\Debug\menu.exe
+C:\Users\Aluno\Downloads\menu\menu\menu\bin\Debug\menu.pdb
+C:\Users\Aluno\Downloads\menu\menu\menu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\menu\menu\menu\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Aluno\Downloads\menu\menu\menu\obj\x86\Debug\WindowsFormsApplication1.frmTeste1.resources
+C:\Users\Aluno\Downloads\menu\menu\menu\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Aluno\Downloads\menu\menu\menu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Downloads\menu\menu\menu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\Downloads\menu\menu\menu\obj\x86\Debug\menu.exe
+C:\Users\Aluno\Downloads\menu\menu\menu\obj\x86\Debug\menu.pdb
